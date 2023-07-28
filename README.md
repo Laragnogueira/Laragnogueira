@@ -1,5 +1,5 @@
-### HI, I am Lara Nogueira (ANDROID DEVELOVER) 👋
-##
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=13F720&width=440&lines=HI%2C+I+am+Lara+Nogueira+-+ANDROID+DEVELOPER" alt="Typing SVG" /> </h1>
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
